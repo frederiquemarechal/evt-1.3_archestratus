@@ -765,8 +765,8 @@
                   <head>Fragment 1 (Ath. 1. 4d-e)</head>
                   <l>ἱστορίης ἐπίδειγμα ποιούμενος Ἑλλάδι πάσηι</l>
                   <p>φησί.</p><note>habent CE</note></div>
-         <pb n="2" facs="data/images/single/archestratus_ms_a_fr_2.png"
-               xml:id="archestratus_ms_a_fr_2"/>
+         <pb n="2" facs="data/images/single/archestratus_ms_a_fr_2_fake_test_no_file.png"
+               xml:id="archestratus_ms_a_fr_2_fake_test_no_file"/>
             <div n="2" type="fragment">
                <head>Fragment 2 (Ath. 1. 4d-e)</head>
                <l n="1">πρὸς δὲ μιᾶι πάντας δειπνεῖν ἁβρόδαιτι τραπέζηι. </l>
@@ -774,8 +774,8 @@
                <l n="3">ἢ τῶν πέντε γε μὴ πλείους· ἤδη γὰρ ἂν εἴη</l>
                <l n="4">μισθοφόρων ἁρπαξιβίων σκηνὴ στρατιωτῶν.</l><note>habent CE</note>
             </div>
-          <pb n="3" facs="data/images/single/archestratus_ms_a_fr_3.png"
-               xml:id="archestratus_ms_a_fr_3"/>
+         <pb n="3" facs="data/images/single/archestratus_ms_a_fr_3_fake_test_no_file.png"
+               xml:id="archestratus_ms_a_fr_3_fake_test_no_file"/>
             <div n="3" type="fragment">
                <head>Fragment 3 (Ath. 1. 29a-d) )</head>
                <l n="1">εἶθʹ ὁπόταν πλήρωμαι Διὸς Σωτῆρος ἕλησθε,</l>
@@ -806,8 +806,8 @@
                <l>ῥυσαὶ δρυπεπεῖς παρακείσθωσάν σοι ἐλαῖαι</l><note>habent
                   CE</note>
             </div>
-         <pb n="5" facs="data/images/single/archestratus_ms_a_fr_5.png"
-               xml:id="archestratus_ms_a_fr_5"/>
+         <pb n="5" facs="data/images/single/archestratus_ms_a_fr_5_fake_test_no_file.png"
+            xml:id="archestratus_ms_a_fr_5_fake_test_no_file"/>
             <div n="5" type="fragment">
                <head>Fragment 5 (Ath. 2. 64a)</head> 
                <l n="1">βολβῶν καὶ καυλῶν χαίρειν λέγω ὀξυβάφοισι</l> 
@@ -864,7 +864,6 @@
                   <rdg wit="#C #E">εἰς</rdg></app> τὸν ὄλεθρον</l>
                <l n="20">ἥκειν καὶ κατορωρύχθαι σταδίους ἀναρίθμήτους.</l><note>habent
                   ACE</note>
-               
             </div> 
          <pb n="8" facs="data/images/single/archestratus_ms_a_fr_25.png"
                xml:id="archestratus_ms_a_fr_25"/>
@@ -936,8 +935,8 @@
                <l n="9">ὡραίου φάγε μοι τέμαχος πάλιν· ἔστι γὰρ ἐσθλὸν</l>
                <l n="10">καὶ μαλακόν.<app><rdg wit="#C #E">τέμαχος. πάνυ γὰρ ἔστιν ἐσθλόν καὶ μαλακὸν.</rdg></app></l><note>habent ACE</note>
                 </div>
-        <pb n="13" facs="data/images/single/archestratus_ms_a_fr_13.png"
-            xml:id="archestratus_ms_a_fr_13"/>
+         <pb n="13" facs="data/images/single/archestratus_ms_a_fr_24.png"
+            xml:id="archestratus_ms_a_fr_24"/>
             <div n="13" type="fragment"><head>Fragment 13 (Ath. 4. 162b, 163c-e)</head> 
                <l n="1">ἀλλʹ οὐ πολλοὶ ἴσασιν βροτῶν τόδε θεῖον ἔδεσμα,</l>
                <l n="2">οὐδʹ ἔσθειν ἐθέλουσ' ὅσοι κόυφην τε λεβώδη</l> 
@@ -948,7 +947,7 @@
                <l n="7">τοῖς λαχάνοις προσάγειν καὶ πρὸς Διόδωρον ἰόντας</l>
                <l n="8">τὸν σοφὸν ἐγκρατέως μετʹ ἐκείνου πυθαγορίζειν.</l><note>habet A</note></div>
          <pb n="14" facs="data/images/single/archestratus_ms_a_fr_36.png"
-            xml:id="archestratus_ms_a_fr_13"/>
+            xml:id="archestratus_ms_a_fr_36"/>
          <div n="14" type="fragment"><head>Fragment 14 (Ath. 7. 278a-d et 7. 313e-14a)</head> 
              <l n="1">τὴν<app><lem wit="#A7.278">δʹ</lem><rdg wit="#CE7.278 #ACE7.313-14"><lacunaStart/></rdg></app> ἀμίαν <app><lem wit="#ACE7.278">φθινοπώρου</lem><rdg wit="#ACE7.313-14">ὠνου ante φθινοπώρου</rdg></app>, ὅταν Πλειὰς καταδύνηι,</l> 
             <l n="2">πάντα τρόπον σκεύαζε. τί σοι τάδε μυθολογεύω ;</l>
@@ -1121,8 +1120,8 @@
             <head>Fragment 30 (Ath. 7. 304d)</head> 
             <l n="1">ἵππουρος <app><lem wit="#A #C">δὲ</lem><rdg wit="#E">καὶ</rdg></app> Καρύστιός ἐστιν ἄριστος ·</l>
             <l n="2">ἄλλως τʹ εὔοψον σφόδρα χωρίον ἐστὶ Κάρυστος.</l><note>habent ACE</note></div>
-         <pb n="31" facs="data/images/single/archestratus_ms_a_fr_51.png"
-            xml:id="archestratus_ms_a_fr_51"/>
+          <pb n="31" facs="data/images/single/archestratus_ms_a_fr_16.png"
+            xml:id="archestratus_ms_a_fr_16"/>
          <div n="31" type="fragment">
              <head>Fragment 31 (Ath. 7. 305e-f)</head> 
             <l n="1">αὐτὰρ ἐς Ἀμβρακίαν ἐλθὼν εὐδαίμονα χώραν</l>
@@ -1135,7 +1134,6 @@
             <l n="8">εἰώθασι δονεῖν ψήφους <app><lem wit="#A  #C">ἄρθρων μηλείων</lem><rdg wit="#E">ἄρθρον μηλείων</rdg></app></l>
             <l n="9">κἄρθρων μηλείων ἐπὶ γῆν δωρήματα <app><lem wit="#A">βάλλων</lem><rdg wit="#C #E">βάλλειν</rdg>
             </app>.</l><note>habent ACE</note></div>
-             
          <pb n="32" facs="data/images/single/archestratus_ms_a_fr_32.png"
             xml:id="archestratus_ms_a_fr_32"/>
          <div n="32" type="fragment"><head>Fragment 32 (Ath. 7. 306b)</head> 
@@ -1160,8 +1158,8 @@
                   <lem wit="#A">ἀνδράσι τʹἀστείοισιν ὁμιλήσεις</lem>
                   <rdg wit="#C #E"><lacunaStart/></rdg>
             </app>.</l><note>habent ACE</note></div>
-           <pb n="35" facs="data/images/single/archestratus_ms_a_fr_24.png"
-            xml:id="archestratus_ms_a_fr_24"/>
+             <pb n="35" facs="data/images/single/archestratus_ms_a_fr_24_fake_test_no_file.png"
+            xml:id="archestratus_ms_a_fr_24_fake_test_no_file"/>
          <div n="35" type="fragment"><head>Fragment 35 (Ath. 7. 310a, b-e)</head> 
             <l n="1">ἐν δὲ Τορωναίων ἄστει τοῦ καρχαρία χρὴ</l>
             <l n="2">τοῦ κυνὸς ὀψωνεῖν ὑπογάστρια κοῖλα κάτωθεν,</l> 
@@ -1202,7 +1200,7 @@
             <l n="16">πάντων εἰσίν ἄριστοι <app><lem wit="#A">ἐπισταμένως</lem><rdg wit="#C #E">ἐπιστήμονες</rdg></app> διαθεῖναι</l> 
             <l n="17">καὶ πολλὰς ἰδέας κομψῶς παρὰ δαιτὶ δύνανται</l>
             <l n="18">ὀψαρίων τεύχειν γλίσχρων <app><lem wit="#A">ἡδυσματολήρων</lem><rdg wit="#C #E">ἡδυσμάτων λήρων</rdg>
-            </app> </l>.<note>habent ACE</note></div>
+            </app>.</l><note>habent ACE</note></div>
          <pb n="37" facs="data/images/single/archestratus_ms_a_fr_52.png"
             xml:id="archestratus_ms_a_fr_52"/>
          <div n="37" type="fragment"><head>Fragment 37 (Ath. 7. 311e-f)</head> 
@@ -1228,7 +1226,7 @@
             xml:id="archestratus_ms_a_fr_49"/>
          <div n="41" type="fragment"><head>Fragment 41 (Ath. 7.314d)</head> 
             <l n="1">καὶ νάρκην ἑφθὴν ἐν ἐλαίωι ἠδὲ καὶ οἴνωι</l>
-            <l n="2">καὶ χλόηι εὐώδει <app><lem wit="#A">καὶ</lem><rdg wit="#C #E"><lacunaStart/></rdg></app> βαιῶι ξύσματι τυροῦ. /<note>habent ACE</note></div> 
+            <l n="2">καὶ χλόηι εὐώδει <app><lem wit="#A">καὶ</lem><rdg wit="#C #E"><lacunaStart/></rdg></app> βαιῶι ξύσματι τυροῦ.</l><note>habent ACE</note></div> 
          <pb n="42" facs="data/images/single/archestratus_ms_a_fr_41.png"
             xml:id="archestratus_ms_a_fr_41"/>
          <div n="42" type="fragment"><head>Fragment 42 (Ath. 7. 314e-f)</head> 
@@ -1237,12 +1235,14 @@
             <l n="3">κὰν πορθμῶι πρὸς ἄκραις Πελωριάδος προχοαῖσι.</l><note>habent ACE</note></div>  
          <pb n="43" facs="data/images/single/archestratus_ms_a_fr_15.png"
             xml:id="archestratus_ms_a_fr_15"/>
-         <div n="43" type="fragment"><head>Fragment 43 (Ath. 7. 315f-16a)</head> 
-            <l n="1"><app><lem wit="#A">τὸν δʹὄνον,<app><lem wit="#A">ἀνοηδων</lem><rdg wit="#Canter">Ανθηδων</rdg></app> τὸν καλλαρίαν καλέουσιν,</l> 
-            <l n="2">ἐκτρέφη εὐμεγέθη,</lem><rdg wit="#C #E"><lacunaStart/></rdg></app> σομφὴν <app><lem wit="#A">δὲ τρέφει</lem><rdg wit="#C #E">τρέφει</rdg>
+         <div n="43" type="fragment"><head>Fragment 43 (Ath. 7. 315f-16a)</head>
+             <head>Fragment 43 (Ath. 7. 315f-16a)</head> 
+            <l n="1"><app><lem wit="#A">τὸν δʹὄνον,<app><lem wit="#A">ἀνοηδων</lem><rdg wit="#Canter">Ανθηδων</rdg></app> τὸν καλλαρίαν καλέουσιν,</lem><rdg wit="#C #E"><lacunaStart/></rdg></app></l> 
+            <l n="2"><app><lem wit="#A">ἐκτρέφη εὐμεγέθη,</lem><rdg wit="#C #E"><lacunaStart/></rdg></app> σομφὴν <app><lem wit="#A">δὲ τρέφει</lem><rdg wit="#C #E">τρέφει</rdg>
                </app> τινὰ σάρκα,</l> 
             <l n="3">καλῶς οὐχ ἡδεῖαν ἔμοιγε, ἄλλʹ</l> 
-            <l n="4">ὑδαίνουσαν<app><rdg wit="#C #E">ἄλλʹ οἰδαίνουσαν.</rdg></app> χαίρει γὰρ ὁ μὲν τούτοις, ὁ δʹ ἐκείνοις.</l><note>habent ACE</note></div>
+            <l n="4">ὑδαίνουσαν<app><rdg wit="#C #E">ἄλλʹ οἰδαίνουσαν.</rdg></app> χαίρει γὰρ ὁ μὲν τούτοις, ὁ δʹ ἐκείνοις.</l><note>habent ACE</note>
+            </div>
          <pb n="44" facs="data/images/single/archestratus_ms_a_fr_54.png"
             xml:id="archestratus_ms_a_fr_54"/>
          <div n="44" type="fragment"><head>Fragment 44 (Ath. 7. 318f)</head> 
@@ -1325,8 +1325,8 @@
                   <rdg wit="#C">μέση</rdg>
                </app>.</l><note>habent ACE</note>
          </div>
-         <pb n="53" facs="data/images/single/archestratus_ms_a_fr_42.png"
-            xml:id="archestratus_ms_a_fr_42"/>
+          <pb n="53" facs="data/images/single/archestratus_ms_a_fr_42_fake_test_no_file.png"
+            xml:id="archestratus_ms_a_fr_42_fake_test_no_file"/>
          <div n="53" type="fragment"><head>Fragment 53 (Ath. 7. 325d-e)</head> 
             <l n="1">κἀν Θάσζωι ὀψώνει τρίγλαν, κοὐ χείρονα λήψηι</l>
              <l n="2">ταύτης· <app><lem wit="#A">ἐν δὲ <app>
@@ -1358,7 +1358,7 @@
          </div>
          <pb n="56" facs="data/images/single/archestratus_ms_a_fr_23.png"
             xml:id="archestratus_ms_a_fr_23"/>
-         <div n="56" type="fragment"><head></head>Fragment 56 (Ath. 7. 326f-7a)</head> 
+         <div n="56" type="fragment"><head>Fragment 56 (Ath. 7. 326f-7a)</head> 
             <l n="1">ἐν δʹ Αἴνωι καὶ τῶι Πόντωι <app><lem wit="#A #C">τὴν</lem><rdg wit="#E"><lacunaStart/></rdg></app> ὗν ἀγόραζε,</l> 
             <l n="2">ἣν καλέουσί τινες θνητῶν ψαμμῖτιν ὀρυκτήν.</l> 
             <l n="3">τούτου τήν κεφαλὴν ἕψει μηδὲν προσενεγκὼν</l> 
