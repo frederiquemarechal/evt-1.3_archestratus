@@ -745,7 +745,12 @@
             passages introduisant les fragments afin de montrer le regard que porte <persName
                ref="#Ath">Athénée de Naucratis</persName> sur <persName ref="#Arc">Archestrate de
                Géla</persName>.</p>
+             
+                <p><hi rend="italic">SIGLA</hi></p>
 
+         <p>A Venetus Marcianus 447 </p>
+         <p>C Parisinus suppl. gr. 841 </p>
+         <p>E Laurentianus Plutei LX. 2 </p>
             </div>
 
          </div>
@@ -775,8 +780,8 @@
                <head>Fragment 3 (Ath. 1. 29a-d) )</head>
                <l n="1">εἶθʹ ὁπόταν πλήρωμαι Διὸς Σωτῆρος ἕλησθε,</l>
                <l n="2">ἤδη χρὴ γεραόν, πολιὸν σφόδρα κρατοφοροῦτα</l>
-               <l n="3"><app><lem wit="#C">οἶνον, ὑγρὴν χαίτην λευκῷ πεπυκασμένον ἄνθει</l>
-               <l n="4">πίνειν, ἐκ Λέσβου περικύμονος ἐκγεγαῶτα.</lem><rdg wit="#E"><lacunaStart/></rdg></app></l>
+               <l n="3"><app><lem wit="#C">οἶνον, ὑγρὴν χαίτην λευκῷ πεπυκασμένον ἄνθει</lem><rdg wit="#E"><lacunaStart/></rdg></app></l>
+               <l n="4"><app><lem wit="#C">πίνειν, ἐκ Λέσβου περικύμονος ἐκγεγαῶτα.</lem><rdg wit="#E"><lacunaStart/></rdg></app></l>
                <l n="5">τὸν <app><lem wit="#C">τʹ</lem><rdg wit="#E">δ᾽</rdg></app> ἀπὸ Φοινίκης ἱερᾶς τὸν Βύβλιον αἰνῶ,</l>
                <l n="6">οὐ μέντοι κείνωι γε παρεξισῶ αὐτον. ἂν γὰρ</l>
                <l n="7">ἐξαίφνας αὐτοῦ γεύσηι μὴ πρόσθεν ἐθισθείς,</l> 
