@@ -1300,95 +1300,129 @@
             <l n="8">ἁλσὶ μόνον <app><lem wit="#A">λεπτοῖς</lem><rdg wit="#C #E">θερμὴ</rdg></app> πάσας καὶ ἐλαίωι ἀλείψας·</l> 
             <l n="9">τὴν ἀρετὴν γὰρ ἔχει τῆς τέρψιος αὐτὸς ἐν αὑτῶι.</l><note>habent ACE</note>
          </div>
-         <pb n="50" facs="data/images/single/archestratus_ms_a_fr_50.png"
-            xml:id="archestratus_ms_a_fr_50"/>
-         <div n="50" type="fragment">
-            <p>Fragment 50 (Ath. 7. 321e) σάλπην δὲ κακὸν μὲν ἔγωγε / ἰχθυὺν εῖς ἀεὶ κρίνω· βρωτὴ δὲ
-               μάλιστα / ἐστὶ θεριζομένου σίτου· λαβὲ δʹ ἐν Μιτυλήνῃ / αὐτην.</p>
+         <pb n="50" facs="data/images/single/archestratus_ms_a_fr_29.png"
+            xml:id="archestratus_ms_a_fr_29"/>
+         <div n="50" type="fragment"><head>Fragment 50 (Ath. 7. 321e)</head> 
+           <l n="1">σάλπην δὲ κακὸν μὲν ἔγωγε</l> 
+            <l n="2">ἰχθυὺν εῖς ἀεὶ κρίνω· βρωτὴ δὲ μάλιστα</l> 
+            <l n="3">ἐστὶ θεριζομένου σίτου· λαβὲ δʹ ἐν Μιτυλνηι</l>
+            <l n="4">αὐτήν.</l><note>habent ACE</note>
          </div>
-         <pb n="51" facs="data/images/single/archestratus_ms_a_fr_51.png"
-            xml:id="archestratus_ms_a_fr_51"/>
-         <div n="51" type="fragment">
-            <p>Fragment 51 (Ath. 7. 322c) ἀυτὰρ σινόδοντα μὲν ὅν ζήτει παχὺν εἶναι · *Morel : μόνον
-               / ἐκ πορθμοῦ δὲ λαβεῖν πειρῶ καὶ τοῦτον, ἑταῖρε. / ταὐτα δὲ ταῦτα κυρῶ φράζων καὶ
-               πρὸς σέ, Κλεαινε.</p>
+         <pb n="51" facs="data/images/single/archestratus_ms_a_fr_18.png"
+            xml:id="archestratus_ms_a_fr_18"/>
+         <div n="51" type="fragment"><head>Fragment 51 (Ath. 7. 322c)</head> 
+            <l n="1">ἀυτὰρ <app><lem wit="#A #C">σινόδοντα</lem><rdg wit="#E">συνόδοντα</rdg></app> μὲν ὃν ζήτει παχὺν εἶναι ·</l> 
+            <l n="2">ἐκ πορθμοῦ δὲ λαβεῖν πειρωι καὶ τοῦτον, ἑταῖρε.</l>
+            <l n="3"><app><lem wit="#A">ταὐτα δὲ ταῦτα κυρωι φράζων καὶ πρὸς σέ, Κλεαινε</lem><rdg wit="#C #E"><lacunaStart/></rdg>
+            </app>.</l><note>habent ACE</note>
          </div>
-         <pb n="52" facs="data/images/single/archestratus_ms_a_fr_52.png"
-            xml:id="archestratus_ms_a_fr_52"/>
-         <div n="52" type="fragment">
-            <p>Fragment 52 (Ath. 7. 324b) / σηπίαι Ἀβδήροις τε Μαρωνίᾳ τʹ ἐνι μέσσῃ</p>
+         <pb n="52" facs="data/images/single/archestratus_ms_a_fr_56.png"
+            xml:id="archestratus_ms_a_fr_56"/>
+         <div n="52" type="fragment"><head>Fragment 52 (Ath. 7. 324b)</head> 
+            <l>σηπίαι Ἀβδήροις τε <app><lem wit="#A #C">Μαρωνίαι</lem><rdg wit="#E">Μαρωνεία</rdg>
+               </app> τʹ ἐνι <app>
+                  <lem wit="#A #Ε">μέσσηι</lem>
+                  <rdg wit="#C">μέση</rdg>
+               </app>.</l><note>habent ACE</note>
          </div>
-         <pb n="53" facs="data/images/single/archestratus_ms_a_fr_53.png"
-            xml:id="archestratus_ms_a_fr_53"/>
-         <div n="53" type="fragment">
-            <p>Fragment 53 (Ath. 7. 325d-e) κἀν Θάσῳ ὀψώνει τρίγλην, κοὐ χείρονα λήψῃ / ταύτης· ἐν
-               δὲ τῷ χείρω, κεδνὴ δὲ καὶ αὐτὴ. / *Τέω, Schneider ἐν δʹ ̓Ερυθραῖς ἀγαθὴ θηρεύεται
-               αἰγιαλῖτις.</p>
+         <pb n="53" facs="data/images/single/archestratus_ms_a_fr_42.png"
+            xml:id="archestratus_ms_a_fr_42"/>
+         <div n="53" type="fragment"><head>Fragment 53 (Ath. 7. 325d-e)</head> 
+            <l n="1">κἀν Θάσζωι ὀψώνει τρίγλαν, κοὐ χείρονα λήψηι</l>
+             <l n="2">ταύτης· <app><lem wit="#A">ἐν δὲ <app>
+                        <lem wit="#A">τῶι</lem>
+                        <rdg wit="#Schneider">Τέῳ</rdg>
+                     </app> χείρω, κεδνὴ δὲ καὶ αὐτὴ</lem>
+                  <rdg wit="#C #E"><lacunaStart/></rdg>
+             </app>.</l>
+            <l n="3">ἐν δʹ ̓Ερυθραῖς ἀγαθὴ θηρεύεται αἰγιαλῖτις.</l><note>habent
+               ACE</note>
          </div>
-         <pb n="54" facs="data/images/single/archestratus_ms_a_fr_54.png"
-            xml:id="archestratus_ms_a_fr_54"/>
-         <div n="54" type="fragment">
-            <p>Fragment 54 (Ath. 7. 326b) καὶ νεαροῦ μεγάλου τʹ αὐλωπία ἐν θέρι ὠνοῦ / κρανίον, ὅταν
-               Φαέτων πυμάτην ἁψῖδα διφρεύῃ· / καὶ παράθες θερμὸν ταχέως καὶ τρῖμμα μετʹ αὐτοῦ· /
-               ὄπτα δʹ ἀμφʹ ὀβελίσκον ἑλὼν ὑπογάστριον αὐτοῦ.</p>
+         <pb n="54" facs="data/images/single/archestratus_ms_a_fr_34.png"
+            xml:id="archestratus_ms_a_fr_34"/>
+         <div n="54" type="fragment"><head>Fragment 54 (Ath. 7. 326b)</head> 
+            <l n="1">καὶ νεαροῦ μεγάλου ταὐλωπία ἐν <app>
+                  <lem wit="#A">θέρι</lem>
+               <rdg wit="#C #E">θέρει</rdg></app> ὠνοῦ</l> 
+            <l n="2">κρανίον, ὅταν Φαέτων πυμάτην ἁψῖδα διφρεύηι·</l> 
+            <l n="3">καὶ παράθες θερμὸν ταχέως καὶ τρῖμμα μετʹ αὐτοῦ·</l>
+            <l n="4">ὄπτα δʹ ἀμφʹ ὀβελίσκον ἑλὼν ὑπογάστριον αὐτοῦ.</l><note>habent ACE</note>
          </div>
          <pb n="55" facs="data/images/single/archestratus_ms_a_fr_55.png"
             xml:id="archestratus_ms_a_fr_55"/>
-         <div n="55" type="fragment">
-            <p>Fragment 55 (Ath. 7. 326d) τευθίδες ἐν Διῳ τῷ Πιερκῷ παρὰ χεῦμα / Βαφύρα · καὶ ἐν
-               Ἀμβρακίᾳ παμπληθέας ὄψει.</p>
+         <div n="55" type="fragment"><head>Fragment 55 (Ath. 7. 326d)</head> 
+            <l n="1">τευθίδες ἐν Δίωι τῶι <app><lem wit="#A">Πιερκῶι</lem>
+                  <rdg wit="#C #E">Πιερικῷ</rdg></app> παρὰ χεῦμα</l>
+            <l n="2"><app><lem wit="#A">Βαφύραι</lem><rdg wit="#C #E">Βαφύρα</rdg>
+            </app> · καὶ ἐν Ἀμβρακίαι παμπληθέας ὄψει.</l><note>habent ACE</note>
          </div>
-         <pb n="56" facs="data/images/single/archestratus_ms_a_fr_56.png"
-            xml:id="archestratus_ms_a_fr_56"/>
-         <div n="56" type="fragment">
-            <p>Fragment 56 (Ath. 7. 326f-7a) ἐν δʹ Αἴνῳ καὶ τῷ Πόντῳ τὴν ὗν ἀγόραζε, / ἣν καλέουσί
-               τινες θνητῶν ψαμμῖτιν ὀρυκτήν. / τούτου τήν κεφαλὴν ἕψει μηδὲν προσενεγκῶν / ἥδυσμʹ ,
-               ̓αλλʹ ἐς μόνον ὕδωρ ἐνθεὶς καὶ θαμὰ κείνων / ὕσσωπον παράθες τρίψας, κἂν ἄλλο τι
-               χρῄζῃς, / δριμὺ διεὶς ὄξος. κᾆτʹ ἐμβάπτευ καὶ ἐπείγου / οὕτως ὡς πνίγεσθαι ὑπὸ
-               σπουδῆς καταπίνων. / τὴν λοφιὰν δʹ ὀπτᾶν αὐτῆς καὶ τἆλλα τὰ πλεῖστα.</p>
-         </div>
-         <pb n="57" facs="data/images/single/archestratus_ms_a_fr_57.png"
-            xml:id="archestratus_ms_a_fr_57"/>
+         <pb n="56" facs="data/images/single/archestratus_ms_a_fr_23.png"
+            xml:id="archestratus_ms_a_fr_23"/>
+         <div n="56" type="fragment"><head></head>Fragment 56 (Ath. 7. 326f-7a)</head> 
+            <l n="1">ἐν δʹ Αἴνωι καὶ τῶι Πόντωι <app><lem wit="#A #C">τὴν</lem><rdg wit="#E"><lacunaStart/></rdg></app> ὗν ἀγόραζε,</l> 
+            <l n="2">ἣν καλέουσί τινες θνητῶν ψαμμῖτιν ὀρυκτήν.</l> 
+            <l n="3">τούτου τήν κεφαλὴν ἕψει μηδὲν προσενεγκὼν</l> 
+            <l n="4">ἥδυσμʹ , ἀλλʹ ἐς μόνον ὕδωρ ἐνθεὶς καὶ θαμὰ <app><lem wit="#A">κείνων</lem><rdg wit="#C #E">κινῶν</rdg></app></l> 
+            <l n="5">ὕσσωπον παράθες τρίψας, κἂν ἄλλο τι χρήιζηις,</l> 
+            <l n="6">δριμὺ διεὶς ὄξος. κἆιτʹ <app><lem wit="#A">ἐμβάπτευ</lem><rdg wit="#C #E">ἐμβάπτε</rdg></app> καὶ ἐπείγου</l> 
+            <l n="7">οὕτως ὡς πνίγεσθαι ὑπὸ σπουδῆς καταπίνων.</l> 
+            <l n="8">τὴν λοφιὰν δʹ ὀπτᾶν αὐτῆς καὶ <app><lem wit="#A">τ' ἄλλα</lem><rdg wit="#C #E">τἄλλα</rdg></app> τὰ πλεῖστα.</l><note>habent ACE</note>
+            </div>
+         <pb n="57" facs="data/images/single/archestratus_ms_a_fr_27.png"
+            xml:id="archestratus_ms_a_fr_27"/>
          <div n="57" type="fragment">
-            <p>Fragment 57 (Ath. 7. 327d-e) Σειρίου ἀντέλλοντος δεῖν τὸν φάγρον ἐσθίειν / δόλῳ τʹ
-               Εἰρετρίᾳ τε κατʹ εὐλιμένους ἁλὸς οἴκους . / *Δήλῳ τὴν κεφαλὴν δʹ αὐτοῦ μόνον ὠνοῦ καὶ
-               μετʹ ἐκείνης / οὐραῖον· τὰ δὲ λοιπὰ δόμον μηδʹ εἰσενέγκῃς.</p>
+           <head>Fragment 57 (Ath. 7. 327d-e)</head> 
+            <l n="1">Σειρίου ἀντέλλοντος δεῖν τὸν φάγρον ἐσθίειν</l>
+            <l n="2"><app><lem wit="#A">δόλωι</lem><rdg wit="#C #E">Δήλῳ</rdg></app> τʹ Εἰρετρίαι τε κατʹ <app><lem wit="#A #C">εὐλιμένους</lem><rdg wit="#E">εὐλιμένα</rdg></app> ἁλὸς οἴκους .</l>
+            <l n="3">τὴν κεφαλὴν δʹ αὐτοῦ μόνον <app><lem wit="#A #E">ὠνοῦ</lem><rdg wit="#C">ὠνοῦσι</rdg></app> καὶ μετʹ ἐκείνης</l>
+            <l n="4">οὐραῖον· τὰ δὲ λοιπὰ <app><lem wit="#A #C">δόμον</lem><rdg wit="#E">δόμων</rdg></app> μηδʹ εἰσενέγκηις.</l><note>habent ACE</note></div>
          </div>
-         <pb n="58" facs="data/images/single/archestratus_ms_a_fr_58.png"
-            xml:id="archestratus_ms_a_fr_58"/>
-         <div n="58" type="fragment">
-            <p>Fragment 58 (Ath. 7.328a) τὸν χρόμιν ἐν Πέλλῃ λήψῃ μεγάν – ἔστι δὲ πίων, / ἄνθέρος ἢ
-               – καὶ ἐν Ἀμβρακίᾳ. / cf. Casaubon : ἄν θέρος ᾒ</p>
+         <pb n="58" facs="data/images/single/archestratus_ms_a_fr_31.png"
+            xml:id="archestratus_ms_a_fr_31"/>
+         <div n="58" type="fragment"><head>Fragment 58 (Ath. 7.328a)</head> 
+            <l n="1">τὸν χρόμιν ἐν Πέλληι λήψηι μεγάν – ἔστι δὲ πίων,</l>               
+            <l n="2">ἄνθέρος ἢ – καὶ ἐν Ἀμβρακίαι.</l><note>habent ACE</note>
          </div>
-         <pb n="59" facs="data/images/single/archestratus_ms_a_fr_59.png"
-            xml:id="archestratus_ms_a_fr_59"/>
+         <pb n="59" facs="data/images/single/archestratus_ms_a_fr_13.png"
+            xml:id="archestratus_ms_a_fr_13"/>
          <div n="59" type="fragment">
-            <p>Fragment 59 (Ath. 7. 328b) χρύσοφρυν ἐξ Ἐφέσου τὸν πίονα μὴ παράλειπε, / ὅν κεῖνοι
-               καλέουσιν ἰωνίσκον. λαβὲ δʹ αὐτόν, / θρέμμα Σελινοῦντος σεμνοῦ, πλῦνον δὲ νιν ὀρθῶς,
-               / εἶθʹ ὄλον ὀπτήσας παράθες κἄν ᾖ δεκάπηχυς.</p>
+            <head>Fragment 59 (Ath. 7. 328b)</head> 
+            <l n="1">χρύσοφρυν ἐξ Ἐφέσου τὸν πίονα μὴ παράλειπε,</l>
+            <l n="2">ὅν κεῖνοι καλέουσιν ἰωνίσκον. λαβὲ δʹ αὐτόν,</l> 
+            <l n="3">θρέμμα Σελινοῦντος σεμνοῦ, πλῦνον δὲ νιν ὀρθῶς,</l> 
+            <l n="4">ἶθʹ ὄλον ὀπτήσας παράθες κἄν ἦι δεκάπηχυς.</l><note>habentACE</note>
          </div>
-         <pb n="60" facs="data/images/single/archestratus_ms_a_fr_60.png"
-            xml:id="archestratus_ms_a_fr_60"/>
-         <div n="60" type="fragment">
-            <p>Fragment 60 (Ath. 9. 383b) περίεργον δʹ ἐστὶν ὡς ἀληθῶς τὸ πολὺ τῶν μαγείρων γένος
-               περί τε τὰς ἱστορίας καὶ τὰ ὀνόματα. λέγουσι γοῦν αὐτῶν οἱ λογιώτατοι “γόνυ κνήμης
-               ἔγγιον” καὶ / περιῆλθον Ἀσίαν καὶ Εὐρώπην.</p>
+         <pb n="60" facs="data/images/single/archestratus_ms_a_fr_2.png"
+            xml:id="archestratus_ms_a_fr_2"/>
+         <div n="60" type="fragment"><head>Fragment 60 (Ath. 9. 383b)</head> 
+            <p>περίεργον δʹ ἐστὶν ὡς ἀληθῶς τὸ πολὺ τῶν μαγείρων
+               γένος περί τε τὰς ἱστορίας καὶ τὰ ὀνόματα. λέγουσι γοῦν αὐτῶν οἱ λογιώτατοι
+               &quot;γόνυ κνήμης ἔγγιον&quot; καὶ</p> <l>✝ &quot;περιῆλθον Ἀσίαν καὶ Εὐρώπην &quot;✝.</l>
+                  <note>habent ACE</note> 
          </div>
-         <pb n="61" facs="data/images/single/archestratus_ms_a_fr_61.png"
-            xml:id="archestratus_ms_a_fr_61"/>
-         <div n="61" type="fragment">
-            <p>Fragment 61 (Ath. 9. 384b) καὶ σιτευτοῦ χηνὸς ὁμοῦ σκευάζει νεοττόν, / ὀπτὸν ἁπλῶς
-               καὶ τόνδε.</p>
+         <pb n="61" facs="data/images/single/archestratus_ms_a_fr_58.png"
+            xml:id="archestratus_ms_a_fr_58"/>
+         <div n="61" type="fragment"><head>Fragment 61 (Ath. 9. 384b)</head> 
+            <l n="1">καὶ σιτευτοῦ χηνὸς ὁμοῦ σκευάζει νεοττόν,</l>
+            <l n="2">ὀπτὸν ἁπλῶς καὶ τόνδε.</l><note>habet A</note>
          </div>
-         <pb n="62" facs="data/images/single/archestratus_ms_a_fr_62.png"
-            xml:id="archestratus_ms_a_fr_62"/>
+         <pb n="62" facs="data/images/single/archestratus_ms_a_fr_57.png"
+            xml:id="archestratus_ms_a_fr_57"/>
          <div n="62" type="fragment">
-            <p>Fragment 62 (Ath. 9. 399d-e) τοῦ δὲ λαγὼ πολλοί τε τρόποι πολλαί τε θέσεις /
-               σκευασίας εἰσί. κεῖνος δʹ οὖν ἐστιν ἄριστος, / ἂν πεινῶσι μεταξὺ φέρῃς κρέας ὀπτὸν
-               ἑκάστῳ, / θερμόν, ἁπλῶς ἁλίπαστον, ἀφαρπάζων ὀβελίσκου / μικρὸν ἐνωμότερον. μὴ
-               λυπείτω δέ σʹ ὁρῶντα / ἰχῶρα στάζοντα κρεῶν, ἀλλʹ ἔσθε λάβρως. / αἱ δʹ ἄλλαι
-               περίεργοι ἔμοιγʹ εἰσὶν διὰ παντὸς / σκευασίαι, γλυῶν καταχύσματα καὶ κατὰτυρα / καὶ
-               κατέλαια λίαν, ὥσπερ γαλῆ ὀψοποιούντες.</p>
+            <head>Fragment 62 (Ath. 9. 399d-e)</head> 
+            <l n="1">τοῦ <app><lem wit="#A">δὲ</lem><rdg wit="#C #E"><lacunaStart/></rdg></app> λαγὼ πολλοί <app><lem wit="#A">τε</lem><rdg wit="#C #E"><lacunaStart/></rdg>
+            </app> τρόποι πολλαί τε θέσεις</l>
+            <l n="2">σκευασίας εἰσί. κεῖνος δʹ οὖν ἐστιν ἄριστος,</l>
+            <l n="3">ἂν πεινῶσι μεταξὺ φέρηις κρέας ὀπτὸν ἑκάστωι,</l>
+            <l n="4">θερμόν, ἁπλῶς ἁλίπαστον, ἀφαρπάζων ὀβελίσκου</l>
+            <l n="5">μικρὸν ἐνωμότερον. μὴ λυπείτω δέ σʹ ὁρῶντα</l>
+            <l n="6">ἰχῶρα στάζοντα κρεῶν, ἀλλʹ ἔσθε λάβρως.</l> 
+            <l n="7">αἱ δʹ ἄλλαι περίεργοι <app><lem wit="#A">ἔμοιγʹ εἰσὶν</lem><rdg wit="#C #E">ἔμοιγε εἰσὶ</rdg></app> διὰ παντὸς</l> 
+            <l n="8">σκευασίαι, <app><lem wit="#A">γλυῶν</lem><rdg wit="#C #E">γλοιῶν</rdg>
+               </app> καταχύσματα <app>
+                  <lem wit="#A">καὶ</lem>
+                  <rdg wit="#C #E"><lacunaStart/></rdg></app> κατὰτυρα</l> 
+            <l n="9">καὶ κατέλαια λίαν, ὥσπερ <app><lem wit="#A">γαλῆ ὀψοποιούντες</lem><rdg wit="#C #E">γαλῆι ὀψοποιούντων</rdg></app>.</l><note>habent ACE</note><
          </div>
 
          <!--<div>
