@@ -797,14 +797,14 @@
                <l n="17">οἶδα δὲ κἀξ ἄλλων <app><lem wit="#E">πόλεων</lem><rdg wit="#C">πολλὴν</rdg></app> βοτρυοσταγῆ ἔρνη</l>
                <l n="18">εἰπεῖν αἰνῆσαί τε καὶ οὔ με λέληθʹ ὀνομῆναι.</l>
                <l n="19"> ἀλλ’ οὐθὲν <app><lem wit="#E">τἆλλ'</lem><rdg wit="#C">τἆλλος</rdg></app> ἐστὶν ἁπλῶς πρὸς Λέσβιον οἶνον.</l> 
-               <l n="20">ἀλλά τινες χαίρουσιν ἐπαινοῦντες τὰ παρ' αὑτοῖς.</l><note>habent CE</note></p>
+               <l n="20">ἀλλά τινες χαίρουσιν ἐπαινοῦντες τὰ παρ' αὑτοῖς.</l><note>habent CE</note>
             </div>
          <pb n="4" facs="data/images/single/archestratus_ms_a_fr_4_fake_test_no_file.png"
                xml:id="archestratus_ms_a_fr_4_fake_test_no_file"/>
             <div n="4" type="fragment">
                <head>Fragment 4 (Ath. 2. 56c)</head>
-               <l n="1">ῥυσαὶ δρυπεπεῖς παρακείσθωσάν σοι ἐλαῖαι</l><note>habent
-                  CE</note></p>
+               <l>ῥυσαὶ δρυπεπεῖς παρακείσθωσάν σοι ἐλαῖαι</l><note>habent
+                  CE</note>
             </div>
          <pb n="5" facs="data/images/single/archestratus_ms_a_fr_5.png"
                xml:id="archestratus_ms_a_fr_5"/>
@@ -812,7 +812,7 @@
                <head>Fragment 5 (Ath. 2. 64a)</head> 
                <l n="1">βολβῶν καὶ καυλῶν χαίρειν λέγω ὀξυβάφοισι</l> 
                <l n="2">τ’ ταῖς <app><lem wit="#C">ἄλλαις παροψίσι πάσηισι</lem><rdg wit="#E">ἄλλαισι παροψίσι πάσαις</rdg>
-               </app>.</l><note>habent CE</note></p>
+               </app>.</l><note>habent CE</note>
             </div>
          <pb n="6" facs="data/images/single/archestratus_ms_a_fr_7.png"
                xml:id="archestratus_ms_a_fr_7"/>
@@ -827,7 +827,7 @@
                         <l ="7">ὁ Ζεὺς τούς τε θαλασσογενεῖς καὶ τοὺς ἀγοραίους,</l>
                         <l ="8">πλὴν ἑνὸς ἀνθρώπου, κεῖνος δέ μοί <app><lem wit="#A #C">ἐστιν</lem><rdg wit="#E">ἐστι</rdg></app>ἑταῖρος</l> 
                         <l ="9">Λέσβον ἐπιστάφυλον ναίων, Ἀγάθων δὲ καλεῖται.</l><note>habent
-                           ACE</note></p>
+                           ACE</note>
             </div>
           <pb n="7" facs="data/images/single/archestratus_ms_a_fr_60.png"
                xml:id="archestratus_ms_a_fr_60"/>
@@ -1264,25 +1264,28 @@
             <l n="1">σκάρον ἐξ Ἐφέσου ζήτει, <app><lem wit="#A #E">χειμῶνι</lem><rdg wit="#C">χειμῶνος</rdg></app> δὲ τρίγλαν</l> 
             <l n="2">ἔσθι' ἐνὶ ψαφαρῆι ληφθέντα Τειχιοέσσηι,</l>
             <l n="3">Μιλήτου κώμηι Καρῶν πέλας <app><lem wit="#A">ἀγκυλοκώλων</lem><rdg wit="#C #E">ἀγκυλοκώλων τόξ</rdg></app>.</l><note>habent ACE</note></div>
-            
-         <pb n="47" facs="data/images/single/archestratus_ms_a_fr_47.png"
-            xml:id="archestratus_ms_a_fr_47"/>
+         <pb n="47" facs="data/images/single/archestratus_ms_a_fr_14.png"
+            xml:id="archestratus_ms_a_fr_14"/>
          <div n="47" type="fragment">
-            <p>Fragment 47 (Ath. 7. 320a-b) καὶ σκάρον ἐν παράλῳ Καλχηδόνι τὸν μέγαν ὄπτα / πλύνας
-               εὖ· χρηστὸν δὲ καὶ ἐν Βυζαντίῳ ὄψει / καὶ μέγεθος, κυκλίας ἴσον ἀσπίδι νῶτα φοροῦντα.
-               / *Ribbeck remplace νῶτα par σῶμα τοῦτον ὅλον θεράπευε τρόπον τοιόνδε. λαβών νῦν, /
-               ἡνίκʹ ἂν εὖ τυρῷ τε καὶ ἐλαίῳ πάντα πυκασθῇ, / κρίβανον ἐς θερμὸν κρέμασον κἄπειτα
-               κατόπτα· / πάσσειν δʹ ἁλσὶ κυμινοτρίβοις καὶ γλαυκῷ ἐλαίῳ / ἐκ χειρὸς κατακρουνίζων
-               θεοδέγμονα πηγήν.</p>
+            <head>Fragment 47 (Ath. 7. 320a-b)</head> 
+            <l n="1">καὶ σκάρον ἐν παράλωι <app><lem wit="#A">Καρχηδόνι</lem><rdg wit="#C #E">Χαλχηδόνι (κ ρχ)</rdg></app> τὸν μέγαν ὄπτα</l> 
+            <l n="2">πλύνας εὖ· χρηστὸν δὲ καὶ ἐν Βυζαντίωι ὄψει</l>  
+            <l n="3">καὶ μέγεθος, κυκλίας ἴσον ἀσπίδι νῶτα φοροῦντα.</l> 
+            <l n="4">τοῦτον ὅλον θεράπευε τρόπον τοιόνδε. λαβών νῦν,</l> 
+            <l n="5">ἡνίκʹ ἂν <app><lem wit="#A">εὖ</lem><rdg wit="#C #E">ἐν</rdg></app> τυρῶι τε καὶ ἐλαίωι πάντα πυκασθῆι,</l>  
+            <l n="6">κρίβανον ἐς θερμὸν κρέμασον κἄπειτα κατόπτα·</l>            
+            <l n="7">πάσσειν δʹ ἁλσὶ κυμινοτρίβοις καὶ γλαυκῶι ἐλαίωι</l> 
+            <l n="8">ἐκ χειρὸς κατακρουνίζων θεοδέγμονα πηγήν.</l><note>habent ACE</note>
          </div>
-         <pb n="48" facs="data/images/single/archestratus_ms_a_fr_48.png"
-            xml:id="archestratus_ms_a_fr_48"/>
-         <div n="48" type="fragment">
-            <p>Fragment 48 (Ath. 7. 320f-1a) ἐν δὴ Θάσῳ τὸν σκορπίον ὠνοῦ, ἂν ᾖ / μὴ μείων πυγόνος·
-               μεγάλου δʹ ἀπὸ χεῖρας ἴαλλε.</p>
+         <pb n="48" facs="data/images/single/archestratus_ms_a_fr_30.png"
+            xml:id="archestratus_ms_a_fr_30"/>
+         <div n="48" type="fragment"><head>Fragment 48 (Ath. 7. 320f-1a)</head> 
+            <l n="1">ἐν <app><lem wit="#A">δὴ</lem><rdg wit="#C #E">δὲ</rdg></app> Θάσωι τὸν σκορπίον <app>
+               <lem wit="#A #E">ὠνοῦ</lem><rdg wit="#C">ὠνοῦσιν</rdg></app>, ἂν ῆι</l>
+            <l n="2">μὴ μείων πυγόνος· μεγάλου δʹ ἀπὸ χεῖρας ἴαλλε.</l><note>habent ACE</note>
          </div>
-         <pb n="49" facs="data/images/single/archestratus_ms_a_fr_49.png"
-            xml:id="archestratus_ms_a_fr_49"/>
+         <pb n="49" facs="data/images/single/archestratus_ms_a_fr_37.png"
+            xml:id="archestratus_ms_a_fr_37"/>
          <div n="49" type="fragment">
             <p>Fragment 49 (Ath. 7. 321c-d) ἡνίκα δʹ ἂν δύνοντος ἐν οὐρανῷ Ὠρίωνος / μήτηρ οἰνοφόρου
                βότρυος χαίτην ἀποβάλλῃ, / τῆμος ἔχειν ὀπτὸν σαργὸν τυρῷ κατάπαστον / εὐμεγέθη θερμὸν
